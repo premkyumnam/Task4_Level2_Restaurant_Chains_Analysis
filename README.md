@@ -54,6 +54,11 @@ rest_chains</em><br><br>
       <tr><td>Starbucks</td><td>3.805556</td><td>7139</td><td>18</td></tr>
     </tbody>
   </table>
+  <p> For More Understanding I plot a bar plot</p>
+  <p align="left">
+  <img src="![image](https://github.com/user-attachments/assets/4ce7eff8-2b35-4bc2-b72f-d74375d06f55)
+
+" alt=" " width="600"><br>
   
 
 <h2>🛠️Tools & Technologies Used:</h2><br>
