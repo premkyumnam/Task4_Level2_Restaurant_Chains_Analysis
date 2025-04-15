@@ -22,15 +22,15 @@ After performing a thorough analysis, here are the findings:<br>
        'Ceviche Tapas Bar & Restaurant'],
       dtype='object', length=734)
     <br>
-    by applying the code:<br> <em>chain_counts = df['Restaurant Name'].value_counts()
-rest_chains = chain_counts[chain_counts > 1].index
+    by applying the code:<br> <em>chain_counts = df['Restaurant Name'].value_counts()<br>
+rest_chains = chain_counts[chain_counts > 1].index<br>
 rest_chains</em><br><br>
 <br> After finding the  average rating and total votes by using the code <br>
-<em>analysis_of_chain = df_chains.groupby('Restaurant Name').agg({
-    'Aggregate rating': 'mean',
-    'Votes': 'sum',
-    'Restaurant ID': 'count'
-}).rename(columns={'Restaurant ID': 'Branch Count'}).sort_values(by='Votes', ascending=False)</em><br> 
+<em>analysis_of_chain = df_chains.groupby('Restaurant Name').agg({<br>
+    'Aggregate rating': 'mean',<br>
+    'Votes': 'sum',<br>
+    'Restaurant ID': 'count'<br>
+}).rename(columns={'Restaurant ID': 'Branch Count'}).sort_values(by='Votes', ascending=False)</em><br> <br>
   2. The ratings and popularity of different top 10 restaurant chains are given below:<br>
   <table>
     <thead>
