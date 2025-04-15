@@ -2,9 +2,6 @@
 
 <html>
   <body>
-    <h1> # Task_L2: Restaurant_Chains_Analysis</h1>
-
-🚀I'm excited to share my Task 4 (Level 2): Restaurant_Chains_Analysis in the Data Analysis Internship Program with Cognifyz Technologies!
 
 <h2>🔹Project Overview:</h2>
 
