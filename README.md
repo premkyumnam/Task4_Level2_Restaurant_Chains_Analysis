@@ -75,8 +75,7 @@ These tools enabled me to effectively extract insights and meaning from the data
 Explore the full project on LinkedIn and GitHub:<br>
 ▶️ [(https://www.linkedin.com/feed/update/urn:li:activity:7316539760322191360/)<br>](https://www.linkedin.com/feed/update/urn:li:activity:7317217856398446592/)<br>
 
-<p>I hope this will be very helpful to new learners and students. <br>
-And I'd love to hear your thoughts and feedback! <br>
+<p>I'd love to hear your thoughts and feedback! <br>
 Let's connect and explore more data-driven insights together. <br><br>
 Thank you all!
 
