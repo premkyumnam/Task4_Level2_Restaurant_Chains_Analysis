@@ -56,7 +56,7 @@ rest_chains</em><br><br>
   </table>
   <p> For More Understanding I plot a bar plot</p>
   <p align="left">
-  <img src="download.png" alt="bar plot" width="600"><br>
+  <img src="download chains.png" alt="bar plot" width="600"><br>
   
 
 <h2>🛠️Tools & Technologies Used:</h2><br>
